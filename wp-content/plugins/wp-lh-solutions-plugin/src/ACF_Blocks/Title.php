@@ -16,6 +16,8 @@ class Title extends ACF_Block {
         $el_class[] = 'lh-acf-block';
         $el_class[] = 'lh-acf-block-' . self::$slug;
 
+        $title      = get_field("title");
+
         require(self::get_template_path());
     }
 }

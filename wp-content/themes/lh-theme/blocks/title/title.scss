@@ -2,10 +2,12 @@
 @import '../../assets/build/css/import/settings';
 
 .lh-acf-block.lh-acf-block-title {
-    // empty scss
+    .lh-title-block{
+        background-color: $primary;
+        margin: 40px 0 !important;
 
-    .lh-h1{
-        color: red !important;
-
+        @include media-min-width($media-query-desk-sm) {
+            margin: 60px 0 !important
+        }
     }
 }

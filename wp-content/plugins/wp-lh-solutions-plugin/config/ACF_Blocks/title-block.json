@@ -9,7 +9,9 @@
     "example": {
         "attributes": {
             "mode": "preview",
-            "data": {}
+            "data": {
+                "title": "LH_LOREM_IPSUM_1_TITLE"
+            }
         }
     }
 }

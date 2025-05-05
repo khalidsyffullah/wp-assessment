@@ -1,7 +1,29 @@
 {
     "key": "group_19690ddb19080abc35278b4b",
     "title": "Title (block)",
-    "fields": [],
+    "fields": [
+        {
+            "key": "field_6818d0b1b59b6",
+            "label": "Title",
+            "name": "title",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Title goes here",
+            "maxlength": "",
+            "allow_in_bindings": 0,
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        }
+    ],
     "location": [
         [
             {
@@ -20,5 +42,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1746187170192
+    "modified": 1746456780
 }

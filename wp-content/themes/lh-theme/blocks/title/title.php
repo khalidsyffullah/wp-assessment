@@ -4,6 +4,5 @@
 >
     <?php lh_print_block_style(self::$slug); ?>
     
-    <h1 class="lh-h1">Lemon Hive</h1>
-    
+    <?php lh_print_simple_acf_element($title, 'h1', 'lh-h1 lh-title-block') ?>
 </div>
