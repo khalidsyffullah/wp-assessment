@@ -15,4 +15,4 @@ block:
 	if [ -z "$$NAME" ]; then \
 		echo "Error: Block name cannot be empty."; exit 1; \
 	fi; \
-	node ./wak-block-scaffolding/generateBlock.js "$$NAME"
+	node ./lh-block-scaffolding/generateBlock.js "$$NAME"

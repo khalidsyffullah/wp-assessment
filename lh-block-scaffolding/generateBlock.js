@@ -47,7 +47,7 @@ function generateBlock(block_name) {
             .replace(/{{nice-name}}/g, nice_name)
             .replace(/{{time-stamp}}/g, time_stamp)
             .replace(/{{block-slug}}/g, block_slug)
-            .replace(/{{WAK_PLGSTR}}/g, setup.namespace.toUpperCase());
+            .replace(/{{LH_PLGSTR}}/g, setup.namespace.toUpperCase());
     }
 
     // Write files
