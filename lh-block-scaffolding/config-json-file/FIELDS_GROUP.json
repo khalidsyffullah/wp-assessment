@@ -7,7 +7,7 @@
             {
                 "param": "block",
                 "operator": "==",
-                "value": "wak\/{{block-slug}}"
+                "value": "lh\/{{block-slug}}"
             }
         ]
     ],
