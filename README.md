@@ -151,22 +151,7 @@ Follow the steps below to get started:
 
    - Pass these sizes to `lh_wp_get_attachment_image_by_sizes()` when rendering.
 
----
 
-## 📂 Project Structure Overview
-
-```
-wp-assessment/
-├── wp-content/
-│   ├── themes/
-│   │   └── lh-theme/
-│   └── plugins/
-│       └── wp-lh-solutions-plugin/
-├── Makefile
-└── lh-block-scaffolding/
-```
-
----
 
 ## 📝 Notes
 
