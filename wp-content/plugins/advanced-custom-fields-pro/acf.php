@@ -19,6 +19,7 @@
  * Requires at least: 6.0
  */
 
+ 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
